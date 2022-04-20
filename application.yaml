@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: git@github.com:chandramohan97911/podinfo-deploy.git
+    repoURL: https://github.com/chandramohan97911/podinfo-deploy.git #git@github.com:chandramohan97911/podinfo-deploy.git
     targetRevision: HEAD
     path: dev
   destination: 
