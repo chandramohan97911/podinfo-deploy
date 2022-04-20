@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/chandramohan97911/podinfo-deploy.git #git@github.com:chandramohan97911/podinfo-deploy.git
     targetRevision: HEAD
-    path: dev
+    path: /
   destination: 
     server: https://kubernetes.default.svc
     namespace: test
